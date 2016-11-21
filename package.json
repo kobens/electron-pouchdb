@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "electron .",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "electron": "^1.4.7",
+    "json-loader": "^0.5.4",
+    "pouchdb": "^6.0.7",
+    "webpack": "^2.1.0-beta.27"
+  }
+}
